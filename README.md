@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello from Brazil! This is Rodrigo Rubini... 👋
 
-<!--
-**rrubini/rrubini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working as a Systems Analyst + Developer for more than 20 years.
 
-Here are some ideas to get you started:
+I have been building innovative solutions on VUI, where I have already deployed many voice solutions on Google Assistant and Alexa for brands like Colgate, Supergasbras, AMBEV and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have great experience on web development systems with vast knowledge of databases, development stacks, frameworks and cloud computing.
+
+- 🔭 I’m currently working on VUI solutions and that´s very exciting! (www.agenciabenext.com)
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigorubini/?locale=en_US)](https://www.linkedin.com/in/rodrigorubini/?locale=en_US)
+
+Best! 😉
