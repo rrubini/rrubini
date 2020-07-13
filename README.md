@@ -8,6 +8,7 @@ I also have great experience on web development systems with vast knowledge of d
 
 - 🔭 I’m currently working on VUI solutions and that´s very exciting! (www.agenciabenext.com)
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigorubini/?locale=en_US)](https://www.linkedin.com/in/rodrigorubini/?locale=en_US)
+- 📫 You can reach me at
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigorubini/?locale=en_US)](https://www.linkedin.com/in/rodrigorubini/?locale=en_US)
 
 Best! 😉
