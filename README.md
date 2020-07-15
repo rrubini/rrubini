@@ -6,7 +6,7 @@ I have been building innovative solutions on VUI, where I have already deployed 
 
 I also have great experience on web development systems with vast knowledge of databases, development stacks, frameworks and cloud computing.
 
-- 🔭 I’m currently working on VUI solutions and that´s very exciting! (www.agenciabenext.com)
+- 🔭 I’m currently working on VUI solutions and this is very exciting! (www.agenciabenext.com)
 
 - 📫 You can reach me at
 
