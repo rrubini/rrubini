@@ -2,11 +2,12 @@
 
 I'm working as a Systems Analyst + Developer for more than 20 years.
 
-I have been building innovative solutions on VUI (Voice Assistants), where I have already deployed many voice solutions on Google Assistant and Alexa for brands like Colgate, Supergasbras, AMBEV and more.
+I have been building innovative solutions on AI... 
+I'm an Alexa Champion and very proud of some projects created using Alexa and Google Assistant. Here are some brands I've the chance to collaborate: Santander, Seara, JBS, Colgate, Supergasbras, Microsoft, AMBEV and more.
 
 I also have great experience on web development systems with vast knowledge of databases, development stacks, frameworks and cloud computing.
 
-- 🔭 I’m currently working on VUI solutions and this is very exciting! (www.agenciabenext.com)
+- 🔭 I’m currently working on AI solutions and this is very exciting! (benext.ai)
 
 - 📫 You can reach me at
 
